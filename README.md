@@ -29,6 +29,9 @@ Things you may want to cover:
 
 - cd GossipProject
 
+* rails db:migrate
+* rails db:seed
+
 Tcheck with
 
 - rails console
